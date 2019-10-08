@@ -1,0 +1,22 @@
+{
+  "name": "redis-streams-101-node",
+  "version": "1.0.0",
+  "description": "Getting Started with Redis Streams and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "streams",
+    "streaming",
+    "101",
+    "getting-started"
+  ],
+  "author": "Tugdual Grall (tugdual@gmail.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^3.1.0",
+    "redis": "^2.8.0"
+  }
+}
