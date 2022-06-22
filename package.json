@@ -16,7 +16,7 @@
   "author": "Tugdual Grall (tugdual@gmail.com)",
   "license": "Apache-2.0",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "redis": "^2.8.0"
   }
 }
